@@ -1,0 +1,13 @@
+{
+    "ColumnNames": [
+        "f1",
+        "f2"
+    ],
+    "Offsets": [
+        "5",
+        "12"
+    ],
+    "FixedWidthEncoding": "windows-1252",
+    "IncludeHeader": "True",
+    "DelimitedEncoding": "utf-8"
+}
